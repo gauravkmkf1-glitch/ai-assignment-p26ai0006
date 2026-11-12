@@ -1,0 +1,5 @@
+*.pdf binary
+*.ipynb text eol=lf
+*.csv text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
